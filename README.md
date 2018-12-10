@@ -2,7 +2,7 @@
 ESSEC WORK
 Gaëtan Gilles & Thibault Lavaine
 
-We imported a csv file that contains among others, the names, the population, the altitude of the 36,000 French towns. 
+We imported a csv file (villes_france.csv) that contains among others, the names, the population, the altitude of the 36,000 French towns. 
 
 Thanks to our Python skills in Data science, we managed to create an algorithm that gives the number of inhabitants above and under an altitude, and the mean above and under that altitude.
 
